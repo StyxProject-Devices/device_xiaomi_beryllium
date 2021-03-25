@@ -14,7 +14,7 @@
     "branch": "lineage-18.1"
   },
   {
-    "repository": "vendor_xiaomi",
+    "repository": "vendor_xiaomi_beryllium",
     "target_path": "vendor/xiaomi",
   }
 ]
