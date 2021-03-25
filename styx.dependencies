@@ -15,6 +15,6 @@
   },
   {
     "repository": "vendor_xiaomi_beryllium",
-    "target_path": "vendor/xiaomi",
+    "target_path": "vendor/xiaomi"
   }
 ]
